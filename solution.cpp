@@ -1,0 +1,1 @@
+#include <iostream>\nusing namespace std;\n\nint main(){\n\twhile(1)\n\t{\n\tint n;cin >> n;if(n!=42)\n\tcout<<n<<"\\n";elsebreak;}return 0;}
